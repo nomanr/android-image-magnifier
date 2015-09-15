@@ -2,14 +2,11 @@
 A custom ImageView, touch anywhere on the image and a circular magnifier will be shown on the image. Zooming certain area of the image.
 How to use?
 
-```xml
-    <com.noman.imagemagnifier.ImageMagnifier
+ <com.noman.imagemagnifier.ImageMagnifier
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:src="@drawable/batman"/>
-
-```
         
 Screen shots
 
