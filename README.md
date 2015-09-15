@@ -13,6 +13,5 @@ How to use?
         
 Screen shots
 
-<img src="https://github.com/NomanR/ImageMagnifier/blob/master/art/1.png" width="48">
-
-![alt tag](https://github.com/NomanR/ImageMagnifier/blob/master/art/2.png)
+<img src="https://github.com/NomanR/ImageMagnifier/blob/master/art/1.png" width="200">
+<img src="https://github.com/NomanR/ImageMagnifier/blob/master/art/2.png" width="200">
